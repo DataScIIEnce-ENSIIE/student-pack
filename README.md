@@ -41,11 +41,18 @@ In order to do it, please init a new pull request (PR) on this current repositor
 - 1 if the offer has been tested and is still operational
 - 0 otherwise
 
+
+## PHP development side
+
+The [Spyc](https://github.com/mustangostang/spyc) library is used to perform optimized YAML parsing. Using the grid system of Bootstrap and the raw [offers.yaml] raw file hosted by this Git repository, we can extract useful information from the student club webpage : [Student pack](https://datasciience.iiens.net/student-pack/).
+
+
+
 ## License & Authors
 
 * Development start date : Sep. 2021
 
-Copyright © 2021 - 2022 DataScIIEnce. All rights reserved.
+Copyright &copy; 2021 - 2022 DataScIIEnce. All rights reserved.
 
 * Initial development & Maintener
     * Lucas RODRIGUEZ • portfolio • lucas.paul.rodriguez@gmail.com
