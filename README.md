@@ -1,5 +1,6 @@
 # Student pack
 
+The official list of student offers is publicly available on [this page](https://datasciience.iiens.net/student-pack/).
 
 ## Introduction
 
