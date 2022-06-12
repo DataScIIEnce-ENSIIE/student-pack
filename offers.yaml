@@ -49,3 +49,8 @@ offers:
     desc: "Description du service"
     url: ""
     tested: 0
+  11:
+    title: "TLD .tech"
+    desc: "Description du service"
+    url: ""
+    tested: 0
