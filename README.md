@@ -45,7 +45,7 @@ In order to do it, please [init a new pull request (PR)](https://github.com/Data
 
 ## PHP development side
 
-The [Spyc](https://github.com/mustangostang/spyc) library is used to perform optimized YAML parsing. Using the grid system of Bootstrap and the raw [offers.yaml] raw file hosted by this Git repository, we can extract useful information from the student club webpage : [Student pack](https://datasciience.iiens.net/student-pack/).
+The [Spyc](https://github.com/mustangostang/spyc) library is used to perform optimized YAML parsing. Using the grid system of Bootstrap and the raw [offers.yaml](offers.yaml) raw file hosted by this Git repository, we can extract useful information from the student club webpage : [Student pack](https://datasciience.iiens.net/student-pack/).
 
 
 
