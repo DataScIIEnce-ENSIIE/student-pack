@@ -32,9 +32,14 @@ In order to do it, please init a new pull request (PR) on this current repositor
     title: "<Title of student plan>"
     desc: "<Small description of the plan>"
     url: "<Official URL of the student plan>"
+    tested: [0|1]
 ```
 
 **WARNING** : Please check if the `<new id>` string is **unique** and not already used in a previous saved student plan in `offers.yaml`.
+
+**WARNING** : the field `tested` only has 2 possibles values :
+- 1 if the offer has been tested and is still operational
+- 0 otherwise
 
 ## License & Authors
 
