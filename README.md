@@ -22,7 +22,7 @@ python3 process.py > offers.out
 
 If you have spotted a new student plan, a ENSIIE/Université de Paris-Saclay/incoming exchange student could have access, please take the time to add it to our file.
 
-In order to do it, please init a new pull request (PR) on this current repository, with the prefix **[New SP]** within the title.
+In order to do it, please [init a new pull request (PR)](https://github.com/DataScIIEnce-ENSIIE/student-pack/pulls) on this current repository, with the prefix **[New SP]** within the title.
 
 
 *Example* :
