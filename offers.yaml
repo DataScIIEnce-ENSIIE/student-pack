@@ -1,5 +1,9 @@
 offers:
   1:
-    title: ""
-    desc: ""
-    url: ""
+    title: "GitHub Student Developer Pack"
+    desc: "Description du service"
+    url: "https://education.github.com/pack"
+  2:
+    title: "JetBrains Education"
+    desc: "Description du service"
+    url: "https://www.jetbrains.com/fr-fr/community/education/#students"
