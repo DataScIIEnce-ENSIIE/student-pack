@@ -11,18 +11,18 @@ offers:
     tested: 1
   3:
     title: "Canva Pro"
-    desc: "Description du service"
-    url: ""
+    desc: "Description du service (Avec GitHub pro)"
+    url: "https://www.canva.com/education/github/"
     tested: 1
   4:
     title: "Coursera"
     desc: "Description du service"
-    url: ""
+    url: "https://www.coursera.org/for-university-and-college-students"
     tested: 1
   5:
     title: "Bloomberg Market Concepts"
     desc: "Description du service"
-    url: ""
+    url: "https://www.bloomberg.com/professional/product/bloomberg-market-concepts/"
     tested: 1
   6:
     title: "Kahoot"
@@ -37,20 +37,20 @@ offers:
   8:
     title: "Namecheap for Education"
     desc: "Description du service"
-    url: ""
+    url: "https://education.github.com/pack?sort=popularity&tag=Domains"
     tested: 0
   9:
     title: "Name.com"
     desc: "Description du service"
-    url: ""
+    url: "https://education.github.com/pack?sort=popularity&tag=Domains"
     tested: 0
   10:
     title: "AWS Educate"
     desc: "Description du service"
-    url: ""
+    url: "https://aws.amazon.com/fr/education/awseducate/"
     tested: 0
   11:
     title: "TLD .tech"
     desc: "Description du service"
-    url: ""
+    url: "https://education.github.com/pack?sort=popularity&tag=Domains
     tested: 0
