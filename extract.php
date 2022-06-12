@@ -1,4 +1,7 @@
 <?php
+/*
+    Script d'extraction et de formatage léger des offres
+*/
 
 // Récupération de l'URL des offres étudiantes
 $STUDENT_PACK_URL = "https://raw.githubusercontent.com/DataScIIEnce-ENSIIE/student-pack/main/offers.yaml";
