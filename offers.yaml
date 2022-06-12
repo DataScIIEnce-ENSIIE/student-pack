@@ -3,7 +3,49 @@ offers:
     title: "GitHub Student Developer Pack"
     desc: "Description du service"
     url: "https://education.github.com/pack"
+    tested: 1
   2:
     title: "JetBrains Education"
     desc: "Description du service"
     url: "https://www.jetbrains.com/fr-fr/community/education/#students"
+    tested: 1
+  3:
+    title: "Canva Pro"
+    desc: "Description du service"
+    url: ""
+    tested: 1
+  4:
+    title: "Coursera"
+    desc: "Description du service"
+    url: ""
+    tested: 1
+  5:
+    title: "Bloomberg Market Concepts"
+    desc: "Description du service"
+    url: ""
+    tested: 1
+  6:
+    title: "Kahoot"
+    desc: "Description du service"
+    url: ""
+    tested: 0
+  7:
+    title: "Microsoft Azure for Students"
+    desc: "Description du service"
+    url: ""
+    tested: 0
+  8:
+    title: "Namecheap for Education"
+    desc: "Description du service"
+    url: ""
+    tested: 0
+  9:
+    title: "Name.com"
+    desc: "Description du service"
+    url: ""
+    tested: 0
+  10:
+    title: "AWS Educate"
+    desc: "Description du service"
+    url: ""
+    tested: 0
