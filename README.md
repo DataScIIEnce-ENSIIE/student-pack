@@ -42,6 +42,11 @@ In order to do it, please [init a new pull request (PR)](https://github.com/Data
 - 1 if the offer has been tested and is still operational
 - 0 otherwise
 
+## Report an error related to a plan
+
+If you try to access a student plan described above and you encounter a problem (service not available, student plan not free anymore, ...), please create a [new issue](https://github.com/DataScIIEnce-ENSIIE/student-pack/issues/new).
+
+If your issue is closed in the coming days, this means it has been taken into account by the team.
 
 ## PHP development side
 
