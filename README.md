@@ -18,25 +18,22 @@ To do so, please [init a new issue](https://github.com/DataScIIEnce-ENSIIE/stude
 
 
 *Example* :
-* PR title : *Adding GitHub Pro plan*
-* PR body : Please describe the following items in the most accurate way possible:
-
+* Issue title : *Adding GitHub Pro plan*
+* Issue body : Please describe the following items in the most accurate way possible:
     - *title*: Title of student plan
     - *desc*: Small description of the plan (no more than 200 symbols)
     - *url*: Official URL of the student plan
     - *tested*: `[0|1]`
 
-**Remark**: Please check if the `<new id>` string is **unique** and not already used in a previous saved student plan in `offers.yaml`.
-
 **Remark**: The `tested` field only has 2 possibles values :
-- 1 if the offer has been tested and is still operational
+- 1 if the offer has been tested *with an institutional address* and is still operational
 - 0 otherwise
 
 ## Report an error related to a plan
 
-If you try to access a student plan described above and you encounter a problem (service not available, student plan not free anymore, ...), please create a [new issue](https://github.com/DataScIIEnce-ENSIIE/student-pack/issues/new).
+If you try to access a student plan described above and you encounter a problem (service not available, student plan not free anymore, ...), please create a [new issue](https://github.com/DataScIIEnce-ENSIIE/student-pack/issues/new) **with label [OFFER ERROR]**
 
-If your issue is closed in the coming days, this means it has been taken into account by the team.
+If your issue is closed in the coming days, this means it has been taken into account by the team. Thank you for your contribution.
 
 
 ## Development
@@ -67,8 +64,7 @@ The [Spyc](https://github.com/mustangostang/spyc) library is used to perform opt
 ## License & Authors
 
 * Development start date : May. 2022
-
-Copyright &copy; 2021 - 2022 DataScIIEnce. All rights reserved.
+* Rights : 2021 - 2022 **DataScIIEnce**
 
 * Initial development & Maintener
     * Lucas RODRIGUEZ • [portfolio](https://lcsrodriguez.github.io/)
