@@ -31,8 +31,8 @@ offers:
     tested: 0
   7:
     title: "Microsoft Azure for Students"
-    desc: "Description du service"
-    url: ""
+    desc: Accès à plus de 25 services Azure et compte crédit de 100$ pour les étudiants"
+    url: "https://azure.microsoft.com/fr-fr/free/students/"
     tested: 0
   8:
     title: "Namecheap for Education"
@@ -41,7 +41,7 @@ offers:
     tested: 0
   9:
     title: "Name.com"
-    desc: "Description du service"
+    desc: "Enregistrement d'un nom de domaine pendant 1 an + 1 an du kit protection (SSL)"
     url: "https://education.github.com/pack?sort=popularity&tag=Domains"
     tested: 0
   10:
