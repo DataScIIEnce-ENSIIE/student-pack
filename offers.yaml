@@ -11,7 +11,7 @@ offers:
     tested: 1
   3:
     title: "Canva Pro"
-    desc: "Fonctionnalités pro avec compte GitHub pro"
+    desc: "Fonctionnalités pro (avec compte GitHub pro)"
     url: "https://www.canva.com/education/github/"
     tested: 1
   4:
@@ -21,9 +21,9 @@ offers:
     tested: 1
   5:
     title: "Twilio"
-    desc: "50$ pour les APIs Twilio avec compte GitHub pro"
+    desc: "50$ pour les APIs Twilio (avec compte GitHub pro)"
     url: "https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education"
-    tested: 1
+    tested: 0
   6:
     title: "DigitalOcean"
     desc: "100$ pour services cloud (avec compte GitHub Pro)"
@@ -56,6 +56,6 @@ offers:
     tested: 0
   12:
     title: "Bloomberg Market Concepts"
-    desc: "Cours sur Bloomberg à 149$ au lieu de 249$"
+    desc: "Cours sur la finance (Economic Indicators, Currencies, Fixed Income, Equities) à 149$ au lieu de 249$"
     url: "https://www.bloomberg.com/professional/product/bloomberg-market-concepts/"
     tested: 1
