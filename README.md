@@ -1,4 +1,10 @@
-# Student pack
+<p align="center">
+<img src="https://datasciience.iiens.net/assets/img/logo_DS.png" width="200"/>
+</p>
+
+<img src="https://img.shields.io/static/v1?label=DataScIIEnce&message=Associative project&color=007bff"/>
+
+# DataScIIEnce - Student pack
 
 This repository is aiming to centralize all available free student offers from various companies (Microsoft, GitHub, JetBrains, ...) in data-science and web development sectors (free services, products, ...).
 
