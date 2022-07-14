@@ -37,12 +37,12 @@ offers:
   8:
     title: "Namecheap for Education"
     desc: "Enregistrement d'un nom de domaine (avec extension .me) pendant 1 an"
-    url: "https://education.github.com/pack?sort=popularity&tag=Domains"
+    url: "https://nc.me/"
     tested: 0
   9:
     title: "Name.com"
     desc: "Enregistrement d'un nom de domaine pendant 1 an + 1 an du kit protection (SSL)"
-    url: "https://education.github.com/pack?sort=popularity&tag=Domains"
+    url: "https://www.name.com/partner/github-students"
     tested: 0
   10:
     title: "AWS Educate"
