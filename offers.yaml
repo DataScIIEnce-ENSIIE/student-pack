@@ -1,7 +1,7 @@
 offers:
   1:
     title: "GitHub Student Developer Pack"
-    desc: "Description du service"
+    desc: "Compte GitHub pro gratuit pendant les études"
     url: "https://education.github.com/pack"
     tested: 1
   2:
@@ -36,7 +36,7 @@ offers:
     tested: 0
   8:
     title: "Namecheap for Education"
-    desc: "Description du service"
+    desc: "Enregistrement d'un nom de domaine (avec extension .me) pendant 1 an"
     url: "https://education.github.com/pack?sort=popularity&tag=Domains"
     tested: 0
   9:
@@ -51,6 +51,6 @@ offers:
     tested: 0
   11:
     title: "TLD .tech"
-    desc: "Description du service"
+    desc: "Enregistrement d'un nom de domaine (avec extension .tech) pendant 1 an et 2 comptes emails avec 100 Mo de stockage gratuit"
     url: "https://education.github.com/pack?sort=popularity&tag=Domains"
     tested: 0
