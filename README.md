@@ -12,25 +12,23 @@ The official list of offers is publicly available on [this page](https://datasci
 
 ## Add a new student plan
 
-If you have spotted a new student plan, a ENSIIE/Université de Paris-Saclay/incoming exchange student could have access, please take the time to add it to our file.
+If you have spotted a new student plan a ENSIIE/Université de Paris-Saclay/incoming exchange student could have access, please take the time to add it to our system.
 
-In order to do it, please [init a new pull request (PR)](https://github.com/DataScIIEnce-ENSIIE/student-pack/pulls) on this current repository, with the prefix **[New SP]** within the title.
+To do so, please [init a new issue](https://github.com/DataScIIEnce-ENSIIE/student-pack/issues) on this current repository **with label [NEW OFFER]** :
 
 
 *Example* :
-* PR title : [New SP] *Adding GitHub Pro plan*
-* PR body : Please append at the end of the document `offers.yaml` a new YAML item as follows :
-```yaml
-<new id>:
-    title: "<Title of student plan>"
-    desc: "<Small description of the plan>"
-    url: "<Official URL of the student plan>"
-    tested: [0|1]
-```
+* PR title : *Adding GitHub Pro plan*
+* PR body : Please describe the following items in the most accurate way possible:
 
-**WARNING** : Please check if the `<new id>` string is **unique** and not already used in a previous saved student plan in `offers.yaml`.
+    - *title*: Title of student plan
+    - *desc*: Small description of the plan (no more than 200 symbols)
+    - *url*: Official URL of the student plan
+    - *tested*: `[0|1]`
 
-**WARNING** : the field `tested` only has 2 possibles values :
+**Remark**: Please check if the `<new id>` string is **unique** and not already used in a previous saved student plan in `offers.yaml`.
+
+**Remark**: The `tested` field only has 2 possibles values :
 - 1 if the offer has been tested and is still operational
 - 0 otherwise
 
