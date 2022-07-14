@@ -20,9 +20,9 @@ offers:
     url: "https://www.coursera.org/for-university-and-college-students"
     tested: 1
   5:
-    title: "Bloomberg Market Concepts"
-    desc: "Cours sur Bloomberg à 130$ au lieu de 260$"
-    url: "https://www.bloomberg.com/professional/product/bloomberg-market-concepts/"
+    title: "Twilio"
+    desc: "50$ pour les APIs Twilio avec compte GitHub pro"
+    url: "https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education"
     tested: 1
   6:
     title: "DigitalOcean"
@@ -54,3 +54,8 @@ offers:
     desc: "Enregistrement d'un nom de domaine (avec extension .tech) pendant 1 an et 2 comptes emails avec 100 Mo de stockage gratuit"
     url: "https://education.github.com/pack?sort=popularity&tag=Domains"
     tested: 0
+  12:
+    title: "Bloomberg Market Concepts"
+    desc: "Cours sur Bloomberg à 130$ au lieu de 260$"
+    url: "https://www.bloomberg.com/professional/product/bloomberg-market-concepts/"
+    tested: 1
