@@ -6,28 +6,28 @@ offers:
     tested: 1
   2:
     title: "JetBrains Education"
-    desc: "Description du service"
+    desc: "Accès gratuit aux produits JetBrains"
     url: "https://www.jetbrains.com/fr-fr/community/education/#students"
     tested: 1
   3:
     title: "Canva Pro"
-    desc: "Description du service (Avec GitHub pro)"
+    desc: "Fonctionnalités pro avec compte GitHub pro"
     url: "https://www.canva.com/education/github/"
     tested: 1
   4:
     title: "Coursera"
-    desc: "Description du service"
+    desc: "1 cours avec certification gratuit par an"
     url: "https://www.coursera.org/for-university-and-college-students"
     tested: 1
   5:
     title: "Bloomberg Market Concepts"
-    desc: "Description du service"
+    desc: "Cours sur Bloomberg à 130$ au lieu de 260$"
     url: "https://www.bloomberg.com/professional/product/bloomberg-market-concepts/"
     tested: 1
   6:
-    title: "Kahoot"
-    desc: "Description du service"
-    url: ""
+    title: "DigitalOcean"
+    desc: "100$ pour services cloud (avec compte GitHub Pro)"
+    url: "https://www.digitalocean.com/github-students"
     tested: 0
   7:
     title: "Microsoft Azure for Students"
