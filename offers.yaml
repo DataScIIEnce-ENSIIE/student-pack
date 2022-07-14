@@ -46,7 +46,7 @@ offers:
     tested: 0
   10:
     title: "AWS Educate"
-    desc: "Description du service"
+    desc: "Ateliers pratiques sur la console AWS pour apprendre, s'exercer et évaluer les compétences cloud en temps réel"
     url: "https://aws.amazon.com/fr/education/awseducate/"
     tested: 0
   11:
