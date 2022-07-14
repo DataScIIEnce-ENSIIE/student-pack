@@ -10,22 +10,6 @@ This repository is aiming to centralize all available free student offers from v
 
 The official list of offers is publicly available on [this page](https://datasciience.iiens.net/student-pack/) *(french)*.
 
-## Introduction
-
-
-If you want to run the Python processing script in order to view, export or even perform an external-processing protocol :
-
-1. You first have to install the depencencies through this command :
-```bash
-pip3 install -r requirements.txt
-```
-
-2. Run the script
-```bash
-python3 process.py > offers.out
-```
-(if you want to redirect the standard output stream into an empty file)
-
 ## Add a new student plan
 
 If you have spotted a new student plan, a ENSIIE/Université de Paris-Saclay/incoming exchange student could have access, please take the time to add it to our file.
@@ -56,7 +40,27 @@ If you try to access a student plan described above and you encounter a problem 
 
 If your issue is closed in the coming days, this means it has been taken into account by the team.
 
-## PHP development side
+
+## Development
+
+This section highlights the details of the two scripts behind the webpage.
+
+### Python-side
+
+If you want to run the little Python script to view, export or even perform an external-processing script :
+
+1. You first have to install the depencencies through this command :
+```bash
+pip3 install -r requirements.txt
+```
+
+2. Run the script
+```bash
+python3 process.py > offers.out
+```
+(if you want to redirect the stdout stream into an empty file)
+
+### PHP-side
 
 The [Spyc](https://github.com/mustangostang/spyc) library is used to perform optimized YAML parsing. Using the grid system of Bootstrap and the raw [offers.yaml](offers.yaml) raw file hosted by this Git repository, we can extract useful information from the student club webpage : [Student pack](https://datasciience.iiens.net/student-pack/).
 
