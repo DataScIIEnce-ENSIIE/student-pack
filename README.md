@@ -56,10 +56,10 @@ The [Spyc](https://github.com/mustangostang/spyc) library is used to perform opt
 
 ## License & Authors
 
-* Development start date : Sep. 2021
+* Development start date : May. 2022
 
 Copyright &copy; 2021 - 2022 DataScIIEnce. All rights reserved.
 
 * Initial development & Maintener
-    * Lucas RODRIGUEZ • portfolio • lucas.paul.rodriguez@gmail.com
+    * Lucas RODRIGUEZ • [portfolio](https://lcsrodriguez.github.io/)
 * Other resources : all rights to respective authors
