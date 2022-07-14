@@ -1,6 +1,8 @@
 # Student pack
 
-The official list of student offers is publicly available on [this page](https://datasciience.iiens.net/student-pack/).
+This repository is aiming to centralize all available free student offers from various companies (Microsoft, GitHub, JetBrains, ...) in data-science and web development sectors (free services, products, ...).
+
+The official list of offers is publicly available on [this page](https://datasciience.iiens.net/student-pack/) *(french)*.
 
 ## Introduction
 
